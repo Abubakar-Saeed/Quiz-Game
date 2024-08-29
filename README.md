@@ -29,3 +29,5 @@ A  Quiz Game implemented in C++ that reads quiz questions from a text file, gene
 
    git clone https://github.com/Abubakar-Saeed/Quiz-Game.git
    cd Quiz-Game
+
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/fe464b03-2f3b-4fa1-a4ad-839386bbe5c6">
