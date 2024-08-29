@@ -1,0 +1,60 @@
+Which gate is called an Inverter ?
+NOT Gate 
+AND Gate
+NAND Gate
+None
+A
+Why NAND Gate and NOR Gate is called Universal Gate?
+Simplicity
+Complexity 
+Self Sufficent 
+None 
+C
+What is the 1s Complement of following binary code '101010'?
+111111
+010101
+000000
+None
+B
+Minterm value are represented by ?
+m
+<
+>
+M
+A
+What is the 2s Complement of 01011000?
+101010000
+111111111
+000000000
+101010101
+A
+Why K-Map is used?
+None
+To present the larger values
+To simplify the Boolean expression
+To show error
+C
+Who present K-Map?
+Karanugh 
+Al-Khawarzmi
+Sir Waseem
+Robert Pattinson
+C
+Parity Bit are used for?
+To avoid error detection 
+To show negative bit 
+To show positive bit
+None
+A
+BCD stands for ?
+None
+Bi Coded Decimal
+Binomoial Coded Decimal
+Binary Coded Decimal
+D
+x.x= ?
+0
+1
+x
+x+x
+C

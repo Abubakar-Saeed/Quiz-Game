@@ -1,0 +1,60 @@
+What is the derivative of the function f(x) = 4x^3 - 2x + 5?
+12x^2 - 2
+12x^2 + 2
+12x^3 - 2
+12x^3 + 2
+A
+What is the integral of the function f(x) = 3x^2 + 4x + 2 with respect to x?
+x^3 + 2x^2 + 2x + C
+x^3 + 2x^2 + C
+3x^2 + 4x + 2 + C
+3x^3 + 2x^2 + 2x + C
+A
+Which of the following is a line integral?
+∫f(x) dx
+∫f(x, y) dA
+∫f(x, y) dy
+∫f(x, y) ds
+D
+What is Green's theorem used for?
+Evaluating line integrals
+Finding the area of a region
+Evaluating double integrals
+Relating line integrals to surface integrals
+A
+What is the curl of a vector field?
+The rate of change of the field in the direction of the gradient
+The rate of change of the field in the direction of the normal vector
+The rate of change of the field in the direction of the cross product
+The rate of change of the field in the direction of the tangent vector
+C
+Which of the following is a conservative vector field?
+F(x, y) = (3x^2 - 2y)i + (2xy + 1)j
+F(x, y) = (3x^2 + 2y)i + (2xy - 1)j
+F(x, y) = (2xy + 1)i + (3x^2 - 2y)j
+F(x, y) = (2xy - 1)i + (3x^2 + 2y)j
+B
+What does the line integral of a vector field measure?
+The work done by the field along a curve
+The rate of change of the field along a curve
+The divergence of the field along a curve
+The curl of the field along a curve
+A
+What is the integral of a scalar field over a surface called?
+Surface integral
+Line integral
+Volume integral
+Green's theorem
+A
+Which of the following is the correct statement of Green's theorem?
+∫∫ curl F · dA = ∫ F · dr
+∫∫∫ div F dV = ∫ F · dr
+∫∫∫ div F dV = ∫∫ F · dA
+∫∫ curl F · dA = ∫∫ F · dA
+D
+What is the derivative of the function f(x, y) = 3x^2y - x^3 + 2y^2?
+6xy - 3x^2 + 4y
+6xy - 3x^2 + 4y^2
+6xy^2 - 3x^2 + 4y
+6xy^2 - 3x^2 + 4y^2
+B

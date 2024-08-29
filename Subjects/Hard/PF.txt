@@ -1,0 +1,60 @@
+Which of the following data structures provides constant time insertion and deletion at both ends?
+Linked list
+Queue
+Stack
+Array
+A
+What is the output of the following code snippet?int x = 5;int y = x++ + ++x;cout << y;
+10
+11
+12
+Compile error
+C
+Which of the following is NOT a valid way to declare and initialize a multidimensional array in C++?
+int arr[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+int arr[][] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+int arr[3][3] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+int arr[3][3] = {{1, 2}, {3, 4}, {5, 6}};
+B
+What does the keyword "volatile" indicate when used in the declaration of a variable in C++?
+The variable cannot be modified.
+The variable can only be modified by a single thread.
+The variable is stored in non-volatile memory.
+The variable's value may change unexpectedly due to external factors.
+D
+What is the output of the following code snippet?int x = 5;int y = x << 2;cout << y;
+5
+10
+20
+Compile error
+C
+Which of the following is NOT a valid way to pass an array to a function in C++?
+void foo(int arr[])
+void foo(int* arr)
+void foo(int arr[5])
+void foo(int& arr)
+D
+What is the output of the following code snippet?int x = 5;int* ptr = &x;cout << *ptr++;
+5
+6
+Compile error
+Undefined behavior
+A
+Which of the following is an example of a lambda function in C++?
+A. int add(int a, int b) { return a + b; }
+B. [](int a, int b) { return a + b; }
+C. class Add { int operator()(int a, int b) { return a + b; } };
+D. #define ADD(a, b) (a + b)
+B
+Which of the following is NOT a type of inheritance in C++?
+Single inheritance
+Multiple inheritance
+Hierarchical inheritance
+Dynamic inheritance
+D
+What is the result of the following bitwise operation?int x = 10;int y = 7;int result = x ^ y;cout << result;
+0
+3
+7
+17
+D

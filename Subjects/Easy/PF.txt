@@ -1,0 +1,60 @@
+Which programming language is known for its execution speed ?
+Python
+Java
+C++
+Ruby
+C
+A Compound Statement is the __________?
+Single Statement
+Double Statement
+All 
+None 
+A
+_________ are data values that can not be changed during program execution?
+Variable
+Constants
+Identifer
+None
+B
+What does IDE stand for in the context of programming?
+Integrated Development Environment
+Interactive Design Environment
+Intelligent Document Editor
+Interface Design Enhancer
+A
+Which control structure allows a program to perform repetitive tasks?
+If-Else
+Switch
+Loop
+Function
+C
+What is the output of the following code snippet? int x = 5; x++; cout << x;
+5
+6
+4
+Error
+B
+if(x=5) then the error is called?
+Logical Error
+Syntax Error
+Intangible Error
+Both A & C
+D
+What is the process of finding and fixing errors in a program called?
+Compiling
+Debugging
+Executing
+Analyzing
+B
+Which operator is used to access the value at a specific index in an array?
++
+/
+*
+[]
+D
+What is the purpose of the "return" statement in a function?
+To declare a variable
+To exit the function and return a value
+To print output to the console
+To define a loop
+B

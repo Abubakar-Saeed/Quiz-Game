@@ -1,0 +1,60 @@
+Which gate can be used to implement any logical function?
+XOR gate
+NAND gate
+NOR gate
+XNOR gate
+B
+What is the output of a 3-bit full adder when the inputs are A = 101 and B = 011?
+Sum = 100, Carry = 1
+Sum = 110, Carry = 0
+Sum = 111, Carry = 0
+Sum = 010, Carry = 1
+B
+Which type of memory organization uses the concept of virtual memory to manage larger address spaces?
+Cache memory
+RAM
+ROM
+Secondary storage
+B
+In a synchronous sequential circuit, what is the purpose of a state reduction technique?
+To minimize the number of states
+To maximize the clock frequency
+To reduce power consumption
+To improve fault tolerance
+A
+Which type of memory access pattern exhibits the highest level of spatial locality?
+Sequential access
+Random access
+Strided access
+Block access
+A
+Which architectural feature is responsible for handling exceptions and interrupts in a processor?
+Control unit
+Arithmetic logic unit
+Memory management unit
+Interrupt controller
+D
+Which interconnection network topology provides the highest degree of fault tolerance?
+Mesh
+Hypercube
+Butterfly
+Ring
+B
+Which memory consistency model guarantees that the order of memory operations observed by all processors is consistent with the program order?
+Sequential consistency
+Release consistency
+Weak consistency
+Relaxed consistency
+A
+Which performance enhancement technique aims to extract more instruction-level parallelism by dynamically reordering instructions?
+Speculative execution
+Out-of-order execution
+Superscalar execution
+Branch prediction
+B
+Which type of architecture relies on compiler optimizations to exploit parallelism?
+SIMD
+MIMD
+VLIW
+EPIC
+C

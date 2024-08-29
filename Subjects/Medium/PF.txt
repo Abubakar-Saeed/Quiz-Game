@@ -1,0 +1,60 @@
+Which of the following is NOT a fundamental data type in C++?
+int
+float
+string
+char
+C
+What is the output of the following code snippet?int x = 10;int y = x++;cout << y;
+10
+11
+12
+Compile error
+A
+What is the correct way to declare and define a constant variable in C++?
+const int x;
+const x = 5;
+int const x = 5;
+int x = const 5;
+C
+What does the keyword "static" indicate when used in the context of a class member function?
+The function can only be called by static variables.
+The function is accessible only within the class.
+The function can be called without an instance of the class.
+The function is virtual and can be overridden in derived classes.
+C
+Which sorting algorithm has the best average-case time complexity?
+Bubble sort
+Selection sort
+Insertion sort
+Quick sort
+D
+What is the purpose of the "break" statement in a switch statement?
+To exit the loop and continue with the next iteration.
+To terminate the program.
+To skip to the next case label.
+To exit the switch statement and continue with the next statement outside the switch.
+D
+What is the scope of a variable declared inside a loop in C++?
+Local to the loop block
+Global to the program
+Local to the function
+Local to the class
+A
+What is the result of the following bitwise operation?int x = 10;int y = 7;int result = x & y;
+0
+1
+7
+10
+A
+What is the difference between a shallow copy and a deep copy?
+Shallow copy copies only the addresses of objects, while deep copy copies the entire objects.
+Shallow copy copies the entire objects, while deep copy copies only the addresses of objects.
+Shallow copy is performed using the assignment operator, while deep copy is performed using the copy constructor.
+Shallow copy creates a new object, while deep copy modifies the existing object.
+A
+What is the time complexity of a binary search algorithm?
+O(1)
+O(log n)
+O(n)
+O(n^2)
+B

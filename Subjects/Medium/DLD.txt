@@ -1,0 +1,60 @@
+Which logic gate is equivalent to the boolean expression "A AND B"?
+OR gate
+NOT gate
+XOR gate
+AND gate
+D
+What is the simplified form of the boolean expression "A + A'B"?
+A
+AB
+A + B
+AB'
+A
+Which method is used for simplifying boolean functions using a truth table?
+Karnaugh Map
+Quine-McCluskey method
+Tabular Minimization
+Boolean Algebra
+B
+Which component is used for converting an n-bit binary code to its equivalent decimal representation?
+Encoder
+Decoder
+Multiplexer
+Comparator
+B
+Which logic gate is commonly used as a building block for other logic gates?
+NAND gate
+NOR gate
+XOR gate
+OR gate
+A
+Which type of flip-flop has two stable states and is commonly used in synchronous sequential circuits?
+D flip-flop
+JK flip-flop
+T flip-flop
+SR flip-flop
+D
+Which type of memory provides the fastest access time but is volatile?
+ROM
+Cache memory
+RAM
+Register
+B
+Which architecture allows multiple processors to work together on a single task?
+SIMD
+MIMD
+VLIW
+EPIC
+B
+Which technique is used to synchronize access to shared memory in multiprocessor systems?
+Cache coherence
+Memory models
+Memory consistency
+Systolic architecture
+A
+Which performance enhancement technique aims to reduce the average memory access time by storing recently accessed data in a faster storage?
+Caching
+Pipelining
+Branch prediction
+Speculative execution
+A

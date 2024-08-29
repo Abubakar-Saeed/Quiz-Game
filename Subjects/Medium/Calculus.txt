@@ -1,0 +1,60 @@
+What is the purpose of Green's theorem in vector calculus?
+To calculate the divergence of a vector field.
+To relate a line integral to a double integral over a region.
+To evaluate surface integrals over a closed surface.
+To find the curl of a vector field.
+B
+In the context of Fourier series, what does it mean for a function to be periodic?
+The function has a repeating pattern.
+The function approaches infinity at certain points.
+The function has a constant value for all inputs.
+The function has a continuous derivative.
+A
+What is the main application of the Laplace transform in engineering and physics?
+Solving differential equations.
+Calculating limits and derivatives.
+Analyzing complex numbers.
+Performing numerical integration.
+A
+Which of the following statements is true about the Z-transform?
+It is used to analyze continuous-time signals.
+It is a special case of the Fourier transform.
+It is primarily used in image processing.
+It is a discrete-time analog of the Laplace transform.
+D
+What is the relationship between a line integral and a surface integral?
+A line integral is a special case of a surface integral.
+A surface integral is a special case of a line integral.
+There is no direct relationship between the two.
+They are equivalent and can be used interchangeably.
+C
+Which mathematical concept is fundamental to the understanding of partial differentiation?
+Limits and continuity.
+Vector calculus.
+Complex numbers.
+Differential equations.
+A
+What does the Stokes' theorem relate?
+A surface integral to a line integral.
+A line integral to a double integral over a region.
+A surface integral to a triple integral.
+A line integral to a volume integral.
+A
+In Fourier series, what is the purpose of the half-range expansion?
+To extend the series to infinity.
+To approximate the function using a limited number of terms.
+To simplify the calculation of coefficients.
+To handle functions defined on a limited interval.
+D
+What is the primary advantage of using the Laplace transform in solving differential equations?
+It provides an exact solution for any type of differential equation.
+It simplifies the differential equation to a polynomial equation.
+It converts the differential equation into an algebraic equation.
+It allows for numerical approximation of the solution.
+C
+Which of the following statements is true about the Fourier transform?
+It can be applied only to periodic functions.
+It is a linear transformation.
+It converts a function from the time domain to the frequency domain.
+It is primarily used for numerical integration.
+C
